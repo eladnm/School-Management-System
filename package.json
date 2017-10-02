@@ -1,0 +1,23 @@
+{
+  "name": "School management system",
+  "version": "1.0.0",
+  "description": "School management system app with login and resitration",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "multer": "^1.3.0",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Elad Nahum",
+  "license": "ISC"
+}
