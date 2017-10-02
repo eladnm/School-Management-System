@@ -1,12 +1,12 @@
-# MEANauthapp
+# School Management System
 
-Complete MEAN stack application with authentication using json web tokens
+School Management System for oraganizing the courses and students registration. I am using MEAN stack to build this one. 
 
 ### Version
 1.0.0
 
 ## Usage
-
+for school managers and administrative personnel. 
 
 ### Installation
 
